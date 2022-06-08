@@ -8,9 +8,6 @@
     lines of text
 */
 
-
-
-
 int main(){
     //This is going to print "Hello World" to the console
     std::cout << "Hello World!" << std::endl;
